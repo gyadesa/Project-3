@@ -1,0 +1,23 @@
+#jumbo {
+    background-image: url('../img/city-scape3.jpg');
+    max-width: 1000px;
+    color: white;
+    margin: auto;
+    overflow: hidden;
+}
+.btn-group-justified {
+    height: 50px;
+}
+.score {
+    font-size: 100px;
+}
+.places-well {
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+#special {
+    font-size: 60px;
+    font-weight: bold;
+}
